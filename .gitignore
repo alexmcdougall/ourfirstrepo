@@ -1,5 +1,4 @@
+*.class
 *.log
-**/*.log
-id_rsa
-id_rsa.pub
-target
+output/
+build/

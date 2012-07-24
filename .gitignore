@@ -1,4 +1,7 @@
 *.class
+
 *.log
+
 output/
 build/
+.another.txt.swp

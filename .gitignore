@@ -4,4 +4,4 @@
 
 output/
 build/
-.another.txt.swp
+*.txt.swp
